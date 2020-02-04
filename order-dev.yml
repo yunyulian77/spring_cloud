@@ -10,4 +10,4 @@ server:
   port: 8081
 env: dev
 girl:
-  name: lili
+  name: lili-dev
