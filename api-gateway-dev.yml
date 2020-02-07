@@ -4,6 +4,6 @@ zuul:
       path: /myProduct/**
       serviceId: PRODUCT
     user:
-      path:/user/**
+      path: /user/**
       serviceId: USER
   sensitive-headers:
