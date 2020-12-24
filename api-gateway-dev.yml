@@ -7,3 +7,6 @@ zuul:
       path: /user/**
       serviceId: USER
   sensitive-headers:
+server:
+  port: 8083  
+  
