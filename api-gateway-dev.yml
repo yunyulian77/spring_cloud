@@ -6,6 +6,7 @@ zuul:
     user:
       path: /user/**
       serviceId: USER
+  #全部服务忽略敏感头(全部服务可以传递cookie)    
   sensitive-headers:
 server:
   port: 8083  
